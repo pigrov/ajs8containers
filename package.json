@@ -1,5 +1,5 @@
 {
-  "name": "ajs",
+  "name": "regex",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -38,5 +38,13 @@
   "dependencies": {
     "core-js": "^3.22.8"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pigrov/ajs43regex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pigrov/ajs43regex/issues"
+  },
+  "homepage": "https://github.com/pigrov/ajs43regex#readme",
   "description": ""
 }
