@@ -5,7 +5,7 @@ export default class Team {
 
     add(newCharacter) {
         if (this.members.has(newCharacter)) {
-            throw new Error('Такой персонаж уже есть в команде');
+            throw new Error('This character is already in the team');
         } else {
             this.members.add(newCharacter);
         }
